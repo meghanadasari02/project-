@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+.top{
+    margin-top: 0%;
+    height: 102px;
+    width: 100%;
+    background-color: rgb(241, 236, 236);
+}
+.title{
+    text-align: center;
+    font-size: 25px;
+    color:purple;
+}
+.top1{
+    margin-top: 8px;
+    width:100%;
+    height:55px;
+    background-color: orange;
+}
+.top1 h1{
+    text-align: center;
+    margin-top: 30px;
+    color: antiquewhite;
+    font-size: 50px;
+}
+.text h1{
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 30px;
+    font-size: 42px;
+    font-family: 'Times New Roman';
+    color: brown;
+}
